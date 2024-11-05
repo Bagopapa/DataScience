@@ -1,3 +1,3 @@
 # DataScience
 
-"In this repo I`ll store all the DataScience Coursera course related assigments"
+In this repo I`ll store all the DataScience Coursera course related assigments
